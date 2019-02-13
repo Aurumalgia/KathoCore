@@ -1,19 +1,19 @@
 {
   "registerUsage": "&cUsage: /register <password> <password>",
-  "registerAlready": "&cYou're already registered please use: /login <password>",
-  "registerSuccess": "&eYou've successfully registered. Please memorize your password for future logins.",
+  "registerAlready": "&cYou have already registered. Please use: /login <password>",
+  "registerSuccess": "&eYou've successfully registered. Please remember your password for future logins.",
   "registerConfirm": "&cYour passwords need to be the same. /register <password> <password>",
-  "alreadyLogged": "&cYou're already log in.",
-  "loginNotYet": "&cYou don't even have a account: /register <password> <password>",
+  "alreadyLogged": "&cYou have already logged in.",
+  "loginNotYet": "&cYou do not have a account yet: /register <password> <password>",
   "loginUsage": "&cUsage: /login <password>",
-  "loginSuccess": "&eYou've logged in",
+  "loginSuccess": "&eYou have been logged in",
   "loginIncorrect": "&cIncorrect password.",
-  "loginTitle": "&ePlease log-in:",
+  "loginTitle": "&ePlease log in:",
   "loginSubtitle": "/login <password>",
   "loginWelcomeTitle": "&eWelcome!",
   "loginWelcomeSubtitle": "Enjoy the server!",
   "registerTitle": "&ePlease register yourself:",
   "registerSubtitle": "/register <password> <password>",
   "reloadKick": "&cPlease re join in our server.",
-  "timeoutKick": "&cYou've take so long to make your login."
+  "timeoutKick": "&cYou have been timed out due to inactivity. Please log in again."
 }
